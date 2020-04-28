@@ -1,3 +1,3 @@
 hello 
 how are you
-doing great thing
+second commit
